@@ -1,6 +1,6 @@
 # Weather App
 
-[Live Link](weather-app-nu-gold-18.vercel.app)
+[Live Link](weather-app-lbem.vercel.app)
 
 ## Table of Contents
 
