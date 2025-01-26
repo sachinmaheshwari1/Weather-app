@@ -1,6 +1,6 @@
 # Weather App
 
-[Live Link](weather-app-lbem.vercel.app)
+[Live Link](weather-app-bujv.vercel.app)
 
 ## Table of Contents
 
