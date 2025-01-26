@@ -56,14 +56,23 @@ Before you begin, ensure that you have the following installed on your machine:
 To set up the project on your local machine, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/sachinmaheshwari1/weather-app.git
    cd weather-app
    ```
+
 2. Install the dependencies:
-   npm install
-   3.Start the development server:
-   npm run dev
+
+```bash
+    npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
 
 ## Usage
 
