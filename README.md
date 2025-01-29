@@ -1,6 +1,6 @@
 # Weather App
 
-[Live Link](weather-app-bujv.vercel.app)
+[Live Link](weather-app-beta-eight-48.vercel.app)
 
 ## Table of Contents
 
